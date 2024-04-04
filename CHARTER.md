@@ -41,21 +41,21 @@ Use Cases description (produced by Use Cases Workstream)
 
 ### Context with other SIDI workstreams
 __Current workstreams:__
-> SIDI Future Governance 
-> Metrics of Success 
-> Use Cases selection and description 
-> Trust Framework Mapping 
-> ***Minimum Requirements*** (this workstream)
+- SIDI Future Governance 
+- Metrics of Success 
+- Use Cases selection and description 
+- Trust Framework Mapping 
+ ***Minimum Requirements*** (this workstream)
 
 __Candidate future workstreams:__
-> Component Analysis
-> Standard identification
+- Component Analysis
+- Standard identification
 >     - Maturity Assessment
 >     - Adoption Assessment
 >     - Gap Analysis (and gap acceptance?)
-> Standard development
-> Solution options
-> Conformance
+- Standard development
+- Solution options
+- Conformance
 
 
 
